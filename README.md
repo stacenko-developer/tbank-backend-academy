@@ -1,5 +1,6 @@
 ![tbank-logo](img/tbank-logo.svg)
 # Академия бэкенда от Т-Банка, 01.09.2024 - 01.01.2026. Срок обучения: 1,5 года
+![certificate](img/certificate.jpg)
 
 ## 1 семестр
 
